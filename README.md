@@ -1,10 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=gradient&customColorList=110038,7000ff,00d4ff&height=120&section=header&text=Ogonda%20Jack%20Omondi&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Ogonda Jack Omondi Header" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=110038,7000ff,00d4ff&height=220&section=header&text=Ogonda%20Jack%20Omondi&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Ogonda Jack Omondi Header" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Technical+Trainer;Problem+Solver" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Go+%2B+Python+%2F+Technical+Lead;Zone01+Kisumu,+Kenya;100%2B+projects+completed+and+still+going+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO Badge" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON Badge" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Badge" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER Badge" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX Badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jackomosh&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/github/followers/jackomosh?label=FOLLOWERS&color=7000ff&style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge" />
+</p>
 
 <p align="center">
   <a href="https://jackomosh.github.io/portfolio/"><strong>🌐 Explore My Portfolio »</strong></a>
@@ -104,7 +117,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=tokyonight" alt="Jack's GitHub Streak" width="48%" />
 </p>
 
