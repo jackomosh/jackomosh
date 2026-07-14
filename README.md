@@ -47,7 +47,7 @@ I am a passionate **Software Developer** and **Technical Lead** with over 6 year
 - 🚀 Currently refining full-stack ecosystems and exploring advanced system architectures.
 - 🎓 Proud admission scholar at **Zone01 Kisumu** (Cohort 2).
 - 🛠️ Specialized in payment gateway automations (like M-Pesa Daraja APIs).
-- 💬 Ask me about **Go, Python, JavaScript, Docker**, or **cPanel Server Optimization**.
+- 💬 Ask me about **Go, Python, JavaScript, HTML5, CSS3, SEO, mySQL, Docker**, or **cPanel Server Optimization**.
 
 ---
 
