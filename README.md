@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=200&section=header&text=Ogonda%20Jack%20Omondi&fontSize=50&fontColor=ffffff&animation=twinkle" alt="Ogonda Jack Omondi Google Doodle Theme" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1785369600&v=beta&t=OnC9HbEWu0kmREeL2MXrUvkB7QDxz2C1cpM7vrVe3uQ" alt="Ogonda Jack Omondi" />
 </p>
 
 <p align="center">
@@ -116,10 +116,16 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 
 Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
 
+---
+
+
 <p align="left">
   <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=tokyonight" alt="Jack's GitHub Streak" width="48%" />
 </p>
+
+
+---
 
 ### 📊 Modern Activity Graph
 Below is your real-time contribution trend line, fully styled to map out commit intensity on a modern, high-contrast timeline:
