@@ -114,7 +114,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 <span id="-github-statistics"></span>
 ## 📈 GitHub Statistics
 
-Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
+This graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching chosen palette, and are tracking all of my code contributions historically:
 
 ---
 
