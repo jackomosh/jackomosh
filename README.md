@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1785369600&v=beta&t=OnC9HbEWu0kmREeL2MXrUvkB7QDxz2C1cpM7vrVe3uQ" alt="Ogonda Jack Omondi" width="100%" height="80%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1785369600&v=beta&t=OnC9HbEWu0kmREeL2MXrUvkB7QDxz2C1cpM7vrVe3uQ" alt="Ogonda Jack Omondi" width="100%" height="50%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Go+%2B+Python+%2F+Technical+Lead;Software+Engineer+Zone01+Kisumu,+Kenya;100%2B+projects+completed+and+still+going+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Go+%2B+Python+%2F+Technical+Lead;Software+Engineer+Zone01+Kisumu,+Kenya;10%2B+projects+completed+and+still+going+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
