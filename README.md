@@ -1,18 +1,22 @@
-# Hi there, I'm Ogonda Jack! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=4800e3,7000ff,00d4ff&height=220&section=header&text=Ogonda%20Jack&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Gradient" />
+</p>
+
+# <p align="center">👋 Welcome to My Digital Workspace!</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&width=435&lines=Software+Engineer;Full-Stack+Developer;Technical+Trainer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Technical+Trainer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://jackomosh.github.io/portfolio/"><strong>Explore My Portfolio »</strong></a>
+  <a href="https://jackomosh.github.io/portfolio/"><strong>🌐 Explore My Portfolio »</strong></a>
   <br />
   <br />
   <a href="https://www.linkedin.com/in/ogondajack/">LinkedIn</a>
   •
   <a href="https://wa.me/254703489975">WhatsApp</a>
   •
-  <a href="mailto:jackomosh6@@gmail.com">Gmail</a>
+  <a href="mailto:jackomosh6@gmail.com">Gmail</a>
 </p>
 
 ---
@@ -30,20 +34,20 @@ I am a passionate **Software Developer** and **Technical Lead** with over 6 year
 
 ## 🌐 Connect With Me
 
-To make it easy to reach out, here are the direct channels you can use to connect with me. Click any of the badges below to start a conversation or view my work:
+Click any of the high-contrast badges below to start a conversation, explore my network, or view my live portfolio:
 
 | Platform | Link / Badge | Purpose |
 | :--- | :--- | :--- |
-| **Personal Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com) | View my latest projects, live demos, and technical articles. |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) | For professional networking, collaborations, and career opportunities. |
-| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254700000000) | For quick, direct chats, project inquiries, or instant feedback. |
-| **Gmail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com) | For formal business inquiries, partnership requests, or technical discussions. |
+| **Personal Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=3498db)](https://jackomosh.github.io/portfolio/) | View my latest projects, live demos, and technical articles. |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogondajack/) | For professional networking, collaborations, and career opportunities. |
+| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254703489975) | For quick, direct chats, project inquiries, or instant feedback. |
+| **Gmail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackomosh6@gmail.com) | For formal business inquiries, partnership requests, or technical discussions. |
 
 ---
 
 ## 🛠️ My Tech Stack & Toolkit
 
-<details>
+<details open>
   <summary><b>⚡ Core Languages & Backend</b></summary>
   <br />
   <p align="left">
@@ -78,9 +82,11 @@ To make it easy to reach out, here are the direct channels you can use to connec
 
 ## 📈 GitHub Statistics
 
+Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=tokyonight" alt="Jack's GitHub Streak" width="48%" />
 </p>
 
 ---
