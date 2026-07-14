@@ -113,6 +113,10 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 
 Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
 
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=tokyonight" alt="Jack's GitHub Streak" width="48%" />
+</p>
 
 ### 📊 Modern Activity Graph
 Below is your real-time contribution trend line, fully styled to map out commit intensity on a modern, high-contrast timeline:
