@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=4800e3,7000ff,00d4ff&height=220&section=header&text=Ogonda%20Jack&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Gradient" />
+  <img src="https://capsule-render.vercel.app/type=rect&color=gradient&customColorList=110038,7000ff,00d4ff&height=120&section=header&text=Ogonda%20Jack%20Omondi&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Ogonda Jack Omondi Header" />
 </p>
-
-# <p align="center">👋 Welcome to My Digital Workspace!</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Technical+Trainer;Problem+Solver" alt="Typing SVG" />
@@ -19,8 +17,16 @@
   <a href="mailto:jackomosh6@gmail.com">Gmail</a>
 </p>
 
+<p align="center">
+  <a href="#-about-me"><b>About Me</b></a> • 
+  <a href="#-connect-with-me"><b>Connect</b></a> • 
+  <a href="#-my-tech-stack--toolkit"><b>Tech Stack</b></a> • 
+  <a href="#-github-statistics"><b>Contribution Chart</b></a>
+</p>
+
 ---
 
+<span id="-about-me"></span>
 ## 💫 About Me
 
 I am a passionate **Software Developer** and **Technical Lead** with over 6 years of experience building efficient web applications, automating workflows, and leading technical teams. I thrive on solving complex problems, building seamless payment integrations, and empowering communities through digital literacy and technical training.
@@ -28,10 +34,11 @@ I am a passionate **Software Developer** and **Technical Lead** with over 6 year
 - 🚀 Currently refining full-stack ecosystems and exploring advanced system architectures.
 - 🎓 Proud admission scholar at **Zone01 Kisumu** (Cohort 2).
 - 🛠️ Specialized in payment gateway automations (like M-Pesa Daraja APIs).
-- 💬 Ask me about **Go, Python, PHP, JavaScript**, or **cPanel Server Optimization**.
+- 💬 Ask me about **Go, Python, JavaScript, Docker**, or **cPanel Server Optimization**.
 
 ---
 
+<span id="-connect-with-me"></span>
 ## 🌐 Connect With Me
 
 Click any of the high-contrast badges below to start a conversation, explore my network, or view my live portfolio:
@@ -45,6 +52,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 
 ---
 
+<span id="-my-tech-stack--toolkit"></span>
 ## 🛠️ My Tech Stack & Toolkit
 
 <details open>
@@ -53,8 +61,17 @@ Click any of the high-contrast badges below to start a conversation, explore my 
   <p align="left">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🔌 APIs & Integration</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+    <img src="https://img.shields.io/badge/Web_APIs-0052CC?style=for-the-badge&logo=json&logoColor=white" alt="Web APIs" />
   </p>
 </details>
 
@@ -72,6 +89,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
   <summary><b>⚙️ DevOps, Hosting & Systems</b></summary>
   <br />
   <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -80,6 +98,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 
 ---
 
+<span id="-github-statistics"></span>
 ## 📈 GitHub Statistics
 
 Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
@@ -87,6 +106,13 @@ Our graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) m
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=tokyonight" alt="Jack's GitHub Streak" width="48%" />
+</p>
+
+### 📊 Modern Activity Graph
+Below is your real-time contribution trend line, fully styled to map out commit intensity on a modern, high-contrast timeline:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackomosh&theme=tokyonight&bg_color=1a1b27&color=7000ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Jack's Contribution Activity Graph" width="100%" />
 </p>
 
 ---
