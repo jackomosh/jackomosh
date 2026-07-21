@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DeiTym/DeiTym/master/giffs/handshake.gif" width="100px" alt="handshake" /><br />
+  <em>Thanks for dropping by! Let's build something incredible together.</em>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Go+%2B+Python+%2F+Technical+Lead;Zone01+Kisumu,+Kenya;100%2B+projects+completed+and+still+going+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
