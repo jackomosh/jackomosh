@@ -49,12 +49,12 @@
 <span id="-about-me"></span>
 ## 💫 About Me
 
-I am a passionate **Software Developer** and **Technical Lead** with over 6 years of experience building efficient web applications, automating workflows, and leading technical teams. I thrive on solving complex problems, building seamless payment integrations, and empowering communities through digital literacy and technical training.
+I am a passionate **Software Developer** and **Technical Lead** with over 6 years of experience building efficient web applications, automating workflows, leading technical teams and providing tech support. I thrive on solving complex problems, building seamless payment integrations, and empowering communities through digital literacy and technical training.
 
 - 🚀 Currently refining full-stack ecosystems and exploring advanced system architectures.
 - 🎓 Proud admission scholar at **Zone01 Kisumu** (Cohort 2).
-- 🛠️ Specialized in payment gateway automations (like M-Pesa Daraja APIs).
-- 💬 Ask me about **Go, Python, JavaScript, Docker**, or **cPanel Server Optimization**.
+- 🛠️ Specialized in payment gateway automations (like M-Pesa Daraja APIs, PayStack, Stripe and more).
+- 💬 Ask me about **Go, Python, JavaScript, SEO, Web Design, HTML5, CSS3, Jquery, Docker**, or **cPanel Server Optimization**.
 
 ---
 
@@ -109,7 +109,7 @@ Click any of the high-contrast badges below to start a conversation, explore my 
 <span id="-github-statistics"></span>
 ## 📈 GitHub Statistics
 
-These graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`) matching your chosen palette, and are tracking all of your code contributions historically:
+These graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`), tracking all of my code contributions historically:
 
 <p align="left">
   <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Jack's GitHub Stats" width="48%" />
@@ -119,7 +119,7 @@ These graphs are colored using a beautiful Blue-Purple dark theme (`tokyonight`)
 ---
 
 ### 📊 Modern Activity Graph
-Below is your real-time contribution trend line, fully styled to map out commit intensity on a modern, high-contrast timeline:
+Below is my real-time contribution trend line, fully styled to map out commit intensity on a modern, high-contrast timeline:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackomosh&theme=tokyonight&bg_color=1a1b27&color=7000ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Jack's Contribution Activity Graph" width="100%" />
@@ -129,5 +129,5 @@ Below is your real-time contribution trend line, fully styled to map out commit 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeiTym/DeiTym/master/giffs/handshake.gif" width="100px" alt="handshake" /><br />
-  <em>Thanks for dropping by! Let's build something incredible together.</em>
+  <em>Thanks for dropping by! Cheers!!</em>
 </p>
