@@ -4,7 +4,12 @@
 
 # Ogonda Jack Omondi
 **Technical Lead & Full Stack Software Developer** — Kisumu, Kenya  
-*Go • Python • System Architecture • Fintech Integration*
+*Go • Python • M-Pesa / Payment Integration • System Design*
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jackomosh&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jackomosh?label=FOLLOWERS&color=000000&style=flat-square&logo=github&logoColor=white" alt="Followers" />
+</p>
 
 [Portfolio](https://jackomosh.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/ogondajack/) | [WhatsApp](https://wa.me/254703489975) | [Email](mailto:jackomosh6@gmail.com)
 
@@ -12,12 +17,12 @@
 
 ### Overview
 
-Software Developer and Technical Lead with over 6 years of experience engineering high-availability web applications, automating complex payment processing pipelines, and directing technical teams. Focused on scalable backend systems, secure API design, and community-driven digital enablement.
+Software Developer and Technical Lead with over 6 years of experience engineering high-availability web applications, automating complex payment processing pipelines, and directing technical teams. In addition to core software development, I bring extensive background as a Customer Support and Client Relations Lead with hands-on experience in technical customer support, sales, and marketing operations.
 
-* **Current Focus:** Full-stack ecosystem engineering & advanced system architectures.
+* **Current Focus:** Full-stack ecosystem engineering, advanced system architectures, & technical leadership.
 * **Affiliation:** Admission Scholar at Zone01 Kisumu (Cohort 2).
 * **Core Specialty:** Payment gateway integrations (M-Pesa Daraja APIs, Paystack, Stripe).
-* **Advisory:** Go, Python, JavaScript, System Design, SEO Schema, Docker, & Server Infrastructure.
+* **Advisory & Consulting:** Go, Python, System Design, SEO Automation, Technical Support Operations, & Infrastructure Optimization.
 
 ---
 
@@ -42,21 +47,16 @@ Software Developer and Technical Lead with over 6 years of experience engineerin
 
 ### Connect & Collaboration
 
-| Resource | Direct Link | Primary Use Case |
+| Platform | Direct Link | Primary Use Case |
 | :--- | :--- | :--- |
-| **Portfolio** | [`jackomosh.github.io`](https://jackomosh.github.io/portfolio/) | Technical write-ups, active projects, and system demos |
-| **LinkedIn** | [`linkedin.com/in/ogondajack`](https://www.linkedin.com/in/ogondajack/) | Professional networking, technical advisory, and consulting |
-| **WhatsApp** | [`+254 703 489 975`](https://wa.me/254703489975) | Direct technical inquiries & project feedback |
-| **Email** | [`jackomosh6@gmail.com`](mailto:jackomosh6@gmail.com) | Formal business inquiries and partnership engagements |
+| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://jackomosh.github.io/portfolio/) | Technical write-ups, active projects, and system demos |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogondajack/) | Professional networking, technical advisory, and consulting |
+| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254703489975) | Direct technical inquiries & project feedback |
+| **Email** | [![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jackomosh6@gmail.com) | Formal business inquiries and partnership engagements |
 
 ---
 
 ### GitHub Metrics & Telemetry
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackomosh&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jackomosh?label=FOLLOWERS&color=000000&style=flat-square&logo=github&logoColor=white" alt="Followers" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=grayscale_white&hide_border=true" alt="Jack's GitHub Stats" width="48%" />
@@ -72,5 +72,5 @@ Software Developer and Technical Lead with over 6 years of experience engineerin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeiTym/DeiTym/master/giffs/handshake.gif" width="60px" alt="handshake" /><br />
-  <em>Open for senior technical roles, backend engineering contracts, and advisory positions.</em>
+  <em>Open for senior technical roles, backend engineering contracts, consultancy-based roles, and advisory positions.</em>
 </p>
