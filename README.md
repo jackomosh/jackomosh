@@ -58,6 +58,10 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 
 ### GitHub Metrics & Telemetry
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackomosh&show_icons=true&include_all_commits=true&theme=grayscale_white&hide_border=true" alt="Jack's GitHub Stats" width="48%" />
+</p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=grayscale_white&hide_border=true" alt="Jack's GitHub Streak" width="48%" />
 </p>
 
