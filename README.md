@@ -20,7 +20,7 @@
 Software Developer and Technical Lead with over 6 years of experience engineering high-availability web applications, automating complex payment processing pipelines, and directing technical teams. In addition to core software development, I bring extensive background as a Customer Support and Client Relations Lead with hands-on experience in technical customer support, sales, and marketing operations.
 
 * **Current Focus:** Full-stack ecosystem engineering, advanced system architectures, & technical leadership.
-* **Affiliation:** Admission Scholar at Zone01 Kisumu (Cohort 2).
+* **Affiliation:** Apprentice at Zone01 Kisumu.
 * **Core Specialty:** Payment gateway integrations (M-Pesa Daraja APIs, Paystack, Stripe).
 * **Advisory & Consulting:** Go, Python, System Design, SEO Automation, Technical Support Operations, & Infrastructure Optimization.
 
@@ -72,5 +72,5 @@ Software Developer and Technical Lead with over 6 years of experience engineerin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeiTym/DeiTym/master/giffs/handshake.gif" width="60px" alt="handshake" /><br />
-  <em>Open for senior technical roles, backend engineering contracts, consultancy-based roles, and advisory positions.</em>
+  <em>Open for technical roles, backend engineering contracts, consultancy-based roles, and advisory positions.</em>
 </p>
