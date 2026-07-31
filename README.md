@@ -4,7 +4,7 @@
 
 # Ogonda Jack Omondi
 **Technical Lead & Full Stack Software Developer** — Kisumu, Kenya  
-*Go • Python • M-Pesa / Payment Integration • System Design*
+*Go • Python • M-Pesa / Payment Integration • Fintech • System Design*
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jackomosh&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="Profile Views" />
@@ -17,7 +17,7 @@
 
 ### Overview
 
-Software Developer and Technical Lead with over 6 years of experience engineering high-availability web applications, automating complex payment processing pipelines, and directing technical teams. In addition to core software development, I bring extensive background as a Customer Support and Client Relations Lead with hands-on experience in technical customer support, sales, and marketing operations.
+I'm a Software Developer and Technical Lead with over 6 years of experience engineering high-availability web applications, automating complex payment processing pipelines, and directing technical teams. In addition to core software development, I bring extensive background as a Customer Support and Client Relations Lead with hands-on experience in technical customer support, sales, and marketing operations.
 
 * **Current Focus:** Full-stack ecosystem engineering, advanced system architectures, & technical leadership.
 * **Affiliation:** Apprentice at Zone01 Kisumu.
