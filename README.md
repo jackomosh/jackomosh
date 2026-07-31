@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1785369600&v=beta&t=OnC9HbEWu0kmREeL2MXrUvkB7QDxz2C1cpM7vrVe3uQ" alt="Ogonda Jack Omondi" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1787184000&v=beta&t=Bag4GSuxsQoGkcfHJfisnluImVf6XxBbxCcIx9x8muU" alt="Ogonda Jack Omondi" width="100%" />
 </p>
 
 # Ogonda Jack Omondi
