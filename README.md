@@ -3,7 +3,7 @@
 </p>
 
 # Ogonda Jack Omondi
-**Technical Lead & Senior Software Developer** — Kisumu, Kenya  
+**Technical Lead & Full Stack Software Developer** — Kisumu, Kenya  
 *Go • Python • System Architecture • Fintech Integration*
 
 [Portfolio](https://jackomosh.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/ogondajack/) | [WhatsApp](https://wa.me/254703489975) | [Email](mailto:jackomosh6@gmail.com)
