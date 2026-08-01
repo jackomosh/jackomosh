@@ -50,9 +50,9 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 | Platform | Direct Link | Primary Use Case |
 | :--- | :--- | :--- |
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://jackomosh.github.io/portfolio/) | Technical write-ups, active projects, and system demos |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogondajack/) | Professional networking, technical advisory, and consulting |
-| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254703489975) | Direct technical inquiries & project feedback |
-| **Email** | [![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jackomosh6@gmail.com) | Formal business inquiries and partnership engagements |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=#0a66c2)](https://www.linkedin.com/in/ogondajack/) | Professional networking, technical advisory, and consulting |
+| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=#25D366)](https://wa.me/254703489975) | Direct technical inquiries & project feedback |
+| **Email** | [![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=#EA4335)](mailto:jackomosh6@gmail.com) | Formal business inquiries and partnership engagements |
 
 ---
 
