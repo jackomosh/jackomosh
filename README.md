@@ -31,7 +31,7 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 #### Language & Tool Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=aqua" alt="Go" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
