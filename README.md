@@ -33,14 +33,14 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 <p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=aqua" alt="Go" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=#306998" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/cPanel-000000?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=#F0DB4F" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=#F29111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=#1D63ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=#F4BC00" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=#F1502F" alt="Git" />
+  <img src="https://img.shields.io/badge/cPanel-000000?style=flat-square&logo=cpanel&logoColor=#FF6C2C" alt="cPanel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=#FF6C37" alt="Postman" />
 </p>
 
 ---
