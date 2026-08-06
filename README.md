@@ -4,7 +4,7 @@
 
 # Ogonda Jack Omondi
 **Technical Lead & Full Stack Software Developer**
-
+---
 *Go • Python • M-Pesa / Payment Integration • Fintech • System Design*
 
 <p align="left">
