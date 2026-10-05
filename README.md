@@ -66,8 +66,9 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 ---
 
 #### Contribution Velocity
+#### Contribution Velocity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackomosh&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackomosh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 ---
