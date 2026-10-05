@@ -35,12 +35,16 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
   <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=aqua" alt="Go" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=#306998" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=#F0DB4F" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=#3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=#F29111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=#4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=#1D63ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=#F4BC00" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=#F1502F" alt="Git" />
   <img src="https://img.shields.io/badge/cPanel-000000?style=flat-square&logo=cpanel&logoColor=#FF6C2C" alt="cPanel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=#21759B" alt="WordPress" />
   <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=#FF6C37" alt="Postman" />
 </p>
 
