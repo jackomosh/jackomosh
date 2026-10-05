@@ -27,9 +27,9 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 
 ---
 
-### Tech Stack & Core Competencies
+### Tech Stack and Core Competencies
 
-#### Language & Tool Badges
+#### Language and Tool Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=aqua" alt="Go" />
@@ -50,7 +50,7 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 
 ---
 
-### Connect & Collaboration
+### Connect and Collaboration
 
 | Platform | Direct Link | Primary Use Case |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 
 ---
 
-### GitHub Metrics & Telemetry
+### GitHub Metrics and Telemetry
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackomosh&theme=grayscale_white&hide_border=true" alt="Jack's GitHub Streak" width="48%" />
