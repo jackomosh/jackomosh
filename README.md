@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1791417600&v=beta&t=4iYTX3pvM5uuuvNNpeiS45ZrY2qU2KQBfcuCgcyX-VY"
-    alt="Ogonda Jack Omondi"
+    src="https://media.licdn.com/dms/image/v2/D4D16AQHCZWVwJsrm9A/profile-displaybackgroundimage-shrink_200_800/B4DZjQzEAGHYAg-/0/1755849704816?e=1794441600&v=beta&t=WxdTRQnUCW7WhPbLSwr0bncxYJ-HL6nQLkqNBeX1_LY"
+    alt="banner"
     width="100%"
   />
 </p>
