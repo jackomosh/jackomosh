@@ -36,20 +36,38 @@ I'm a Software Developer and Technical Lead with over 6 years of experience engi
 #### Language and Tool Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=aqua" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=#306998" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=#F0DB4F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=#3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=#F29111" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=#4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=#1D63ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=#F4BC00" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=#F1502F" alt="Git" />
-  <img src="https://img.shields.io/badge/cPanel-000000?style=flat-square&logo=cpanel&logoColor=#FF6C2C" alt="cPanel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=#21759B" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=#FF6C37" alt="Postman" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/VPS-000000?style=flat-square&logo=proxmox&logoColor=E57000" alt="VPS Hosting" />
+  <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=009639" alt="NGINX" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Amazon_S3-000000?style=flat-square&logo=amazons3&logoColor=569A31" alt="Amazon S3 Object Storage" />
+
+  <!-- Networking & Email -->
+  <img src="https://img.shields.io/badge/SMTP-000000?style=flat-square&logo=minutemailer&logoColor=EA4335" alt="SMTP" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/cPanel-000000?style=flat-square&logo=cpanel&logoColor=FF6C2C" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=21759B" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
 ---
